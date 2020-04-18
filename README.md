@@ -9,6 +9,7 @@ The project uses argparse to manage the parameters passed to the script - this m
 usage: python-arguments.py [-h] [-d DIRECTORY] [-f FILENAME] [-v]
 
 Arguments:
+
   -h, --help            show this help message and exit
 
   -d DIRECTORY, --directory DIRECTORY
