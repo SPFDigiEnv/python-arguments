@@ -10,10 +10,13 @@ usage: python-arguments.py [-h] [-d DIRECTORY] [-f FILENAME] [-v]
 
 Arguments:
   -h, --help            show this help message and exit
+
   -d DIRECTORY, --directory DIRECTORY
                         directory path to location of files (e.g. --directory ./data/).
+
   -f FILENAME, --file FILENAME
                         file name or wildcard (e.g. --file *.csv).
+
   -v, --version         displays the version number
 
   Example: ./python-arguments.py -d .. -f *.csv
